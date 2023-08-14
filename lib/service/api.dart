@@ -23,6 +23,7 @@ class ServiceController extends GetxController {
     }
 
     // If the request failed or encountered an exception, return a default WeatherData object
+    //Just checking
     return WeatherData(
       days: [],
       queryCost: 0,
