@@ -1,16 +1,4 @@
 # weather
 
-A new Flutter project.
+![Screenshot_2023_08_13_02_44_50_23_067ca54d029a1c65bea8d27590265e45](https://github.com/rafsanopi/Weather/assets/45880457/3530ca44-cb33-4fe5-8751-9c5584a860a2)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
